@@ -28,7 +28,6 @@
 - **[Suno Wiki](https://sunoaiwiki.com/)** — Community knowledge base for Suno prompting and workflows.
 - **[Suno Guide](https://blakecrosley.com/guides/suno)** — Community guide for Suno prompting and workflows.
 - **[Metatags Guide](https://sunometatagcreator.com/metatags-guide)** — Metatags guide for Suno.
-- **[Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** — Reusable AI skills and workflows focused on music creation.
 
 ---
 
