@@ -63,6 +63,18 @@
 
 ---
 
+## Merchandise
+- [Gelato](https://www.gelato.com/)
+- [Bonfire](https://www.bonfire.com/)
+- [Spreadshop](https://www.spreadshop.com/)
+
+---
+
+## Website
+- [Linktree](https://linktr.ee/)
+
+---
+
 ![image](assets/ender.png)
 
 ---
