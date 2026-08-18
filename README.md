@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](asset/cover.png)
 
 ---
 
@@ -123,7 +123,7 @@
 
 ---
 
-![Ender](assets/ender.png)
+![Ender](asset/ender.png)
 
 ---
 
