@@ -72,6 +72,7 @@
 
 ## Website
 - [Linktree](https://linktr.ee/)
+- [OpenCode](https://opencode.ai/) + [OpenDesign](https://open-design.ai) + [Superpowers](https://github.com/obra/superpowers)
 
 ---
 
