@@ -24,6 +24,7 @@
 > Create music faster with AI-powered generation, experimentation, and production tools.
 
 - **[Suno](https://suno.com)** — Generate complete songs and music ideas from text prompts.
+- **[Suno Help](https://help.suno.com/)** - Suno's official knowledge base.
 - **[Suno Wiki](https://sunoaiwiki.com/)** — Community knowledge base for Suno prompting and workflows.
 - **[Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** — Reusable AI skills and workflows focused on music creation.
 
