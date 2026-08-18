@@ -39,6 +39,7 @@
 - **[Google Flow](https://labs.google/fx/it/tools/flow)** — AI filmmaking and visual storytelling workspace from Google Labs.
 - **[Vibes](https://vibes.ai/)** — AI-powered creative tooling for music-focused visual content.
 - **[Suno.bi](https://suno.bi)** — Turn any Suno song into a karaoke music video.
+- **[NotebookLM](https://notebook.google.com)** — Turn any video or idea into a short video.
 
 ---
 
