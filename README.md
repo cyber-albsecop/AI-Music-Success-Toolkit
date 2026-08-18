@@ -10,6 +10,7 @@
 
 ## AI Music Video
 - [SnapGen](https://snapgen.ai/)
+- [GoogleFlow](https://labs.google/fx/it/tools/flow)
 
 ---
 
