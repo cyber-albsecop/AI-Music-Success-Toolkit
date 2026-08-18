@@ -5,6 +5,7 @@
 ## AI Music Making
 - [Suno](https://suno.com)
 - [Suno Wiki](https://sunoaiwiki.com/)
+- [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)
 
 ---
 
