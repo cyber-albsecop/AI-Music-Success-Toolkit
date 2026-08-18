@@ -1,12 +1,4 @@
-# 🎛️ Electronic Music Success Toolkit
-
-### ⚡ A curated toolkit for producing, promoting, distributing, monetizing, and growing an electronic music project.
-
-![Electronic Music](https://img.shields.io/badge/ELECTRONIC-MUSIC-8A2BE2?style=for-the-badge&logo=musicbrainz&logoColor=white)
-![Creator Toolkit](https://img.shields.io/badge/CREATOR-TOOLKIT-00BFFF?style=for-the-badge&logo=soundcloud&logoColor=white)
-![Open Source](https://img.shields.io/badge/OPEN-SOURCE-111111?style=for-the-badge&logo=github&logoColor=white)
-
-**PRODUCE** ▰▰▰▱▱ **PROMOTE** ▰▰▰▰▱ **DISTRIBUTE** ▰▰▰▰▰ **MONETIZE**
+![image](assets/cover.png)
 
 ---
 
@@ -131,13 +123,7 @@
 
 ---
 
-## 🔊 From bedroom producer to global release
-
-**CREATE → RELEASE → PROMOTE → CONNECT → MONETIZE → REPEAT**
-
-♪ ♫ ♬ 〰️ 🎚️ 〰️ ♬ ♫ ♪
-
-### ⭐ Star the repository if it helps your music journey.
+![image](assets/ender.png)
 
 ---
 
