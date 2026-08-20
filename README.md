@@ -102,6 +102,7 @@
 
 > Capture revenue streams that can be missed when music is played, streamed, or used publicly.
 
+- **[Sentric](https://sentric.publishingdashboard.com/)** — Music royalty collection and administration services.
 - **[Monetunes](https://www.monetunes.com/)** — Music monetization and royalty administration services.
 - **[SoundExchange](https://www.soundexchange.com/)** — Collect digital performance royalties for eligible recordings.
 - **[UniteSync](https://unitesync.com)** — Royalty and rights-management services for independent music creators.
