@@ -66,8 +66,8 @@
 
 > Monetize beats, production skills, freelance services, and digital music work.
 
-- **[Airbit](https://airbit.com/)** — Marketplace and storefront platform for selling beats.
 - **[BeatStars](https://www.beatstars.com/)** — Beat licensing, selling, and producer marketplace platform.
+- **[Airbit](https://airbit.com/)** — Marketplace and storefront platform for selling beats.
 - **[Fiverr](https://www.fiverr.com/)** — Offer mixing, mastering, production, and creative music services.
 - **[Freelancer](https://www.freelancer.com/)** — Find freelance audio, music, and production projects.
 - **[Upwork](https://www.upwork.com/)** — Build recurring freelance work in music and audio production.
