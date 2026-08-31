@@ -120,6 +120,16 @@
 
 ---
 
+## 📈 Statistics
+
+> Extend your artist identity into physical products without managing inventory yourself.
+
+- **[Airtable](https://airtable.com/)** — Powerful tools to streamline your data.
+- **[Make](https://make.com)** — AI automation platform.
+
+
+---
+
 ## 🌐 Website
 
 > Build a central artist destination for links, releases, identity, and fan conversion.
