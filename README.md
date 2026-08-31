@@ -120,13 +120,12 @@
 
 ---
 
-## 📈 Statistics
+## 📈 Data & Automations
 
 > Extend your artist identity into physical products without managing inventory yourself.
 
 - **[Airtable](https://airtable.com/)** — Powerful tools to streamline your data.
 - **[Make](https://make.com)** — AI automation platform.
-
 
 ---
 
