@@ -128,6 +128,7 @@
 - **[Airtable](https://airtable.com/)** — Powerful tools to streamline your data.
 - **[Make](https://make.com)** — AI automation platform.
 - **[Postiz](https://github.com/gitroomhq/postiz-app)** — Social Media post scheduler & analytics.
+- **[Trypost](https://github.com/trypostit/trypost)** — Social Media post scheduler & analytics.
 
 ---
 
