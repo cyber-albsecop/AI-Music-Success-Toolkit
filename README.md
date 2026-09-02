@@ -15,6 +15,7 @@
 | 📣 **Music Promotion** | Submit tracks to curators, playlists, and discovery platforms. |
 | 💿 **Royalty Collectors** | Collect performance, neighboring-rights, and publishing revenue. |
 | 👕 **Merchandise** | Launch print-on-demand artist merchandise. |
+| 📈 **Automations & Data** | Powerful tools to streamline your data. |
 | 🌐 **Website** | Build a simple artist hub and online presence. |
 
 ---
