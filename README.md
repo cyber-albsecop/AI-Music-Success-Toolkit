@@ -7,7 +7,7 @@
 | Area | What it helps with |
 |---|---|
 | 🤖 **AI Music Making** | Generate ideas, tracks, and AI-assisted music workflows. |
-| 🎬 **AI Music Video** | Turn songs into visual content and music videos. |
+| 🎬 **AI Images, Covers & Music Video** | Turn songs into visual content and music videos. |
 | 🎧 **DJ Sets** | Publish and share mixes, live sets, and DJ sessions. |
 | 🚀 **Music Distribution** | Release music to major streaming platforms and stores. |
 | 💸 **Music Selling** | Sell beats, services, and creative work online. |
