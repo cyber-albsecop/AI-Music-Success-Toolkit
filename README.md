@@ -32,7 +32,7 @@
 
 ---
 
-## 🎬 AI Music Video
+## 🎬 AI Images, Covers & Music Video
 
 > Create visual companions for tracks, releases, teasers, and social media campaigns.
 
