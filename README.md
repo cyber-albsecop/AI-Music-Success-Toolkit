@@ -36,6 +36,7 @@
 
 > Create visual companions for tracks, releases, teasers, and social media campaigns.
 
+- **[Higgsfield](https://higgsfield.ai/)** — Best AI visual generation for video content.
 - **[SnapGen](https://snapgen.ai/)** — AI-assisted visual generation for creative content.
 - **[Google Flow](https://labs.google/fx/it/tools/flow)** — AI filmmaking and visual storytelling workspace from Google Labs.
 - **[Vibes](https://vibes.ai/)** — AI-powered creative tooling for music-focused visual content.
